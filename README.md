@@ -1,6 +1,7 @@
 # SuperStore-Sales-Dashboard
 
-# Objective: To enhance business success by employing data analysis methodologies, particularly focusing on time series analysis, to offer insightful sales forecasting and strategic recommendations.
+# Objective
+To enhance business success by employing data analysis methodologies, particularly focusing on time series analysis, to offer insightful sales forecasting and strategic recommendations.
 
 # Description:
 1. Dashboard Creation: Develop intuitive dashboards with key performance indicators (KPIs), interactive visualizations, and filtering capabilities to facilitate data exploration.
@@ -18,4 +19,10 @@
 - Phone category emerging as the top-selling subcategory with overall sales of $0.2M.
 - Highest sales observed on January 12th according to sales forecasting analysis.
 
-# Learning: Application of data analysis methodologies, with a focus on time series analysis, to deliver precise sales forecasting, actionable insights, and the creation of interactive dashboards, thereby fostering business success.
+# Learning
+Application of data analysis methodologies, with a focus on time series analysis, to deliver precise sales forecasting, actionable insights, and the creation of interactive dashboards, thereby fostering business success.
+
+![image](https://github.com/ashutoshcgm/SuperStore-Sales-Dashboard/assets/87574252/95251514-b787-421e-8700-c0bbbdc896d9)
+
+![image](https://github.com/ashutoshcgm/SuperStore-Sales-Dashboard/assets/87574252/5c794092-609d-4d83-b0b8-9e197cb545cd)
+
